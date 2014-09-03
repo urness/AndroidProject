@@ -1,4 +1,4 @@
-/*author: Tim Urness
+/*author: Tim Urness and professor U
  */
 
 package com.example.androidproject;
