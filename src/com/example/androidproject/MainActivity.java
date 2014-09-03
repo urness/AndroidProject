@@ -1,3 +1,6 @@
+/*author: Tim Urness
+ */
+
 package com.example.androidproject;
 
 import android.support.v7.app.ActionBarActivity;
